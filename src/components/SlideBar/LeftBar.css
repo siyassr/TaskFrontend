@@ -1,0 +1,20 @@
+.leftbar{
+    width: 80px;
+    background-color: white;
+    height: 100vh;
+    padding: 10px 10px 0px 10px;
+
+    img{
+        width: 100%;
+        mix-blend-mode: multiply;
+        /* height: 100px; */
+        /* margin-left: 10px; */
+    }
+}
+.rightbar{
+    width: 255px;
+}
+.baar{
+    background-color: white;
+    padding: 10px;
+}
